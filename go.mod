@@ -1,4 +1,4 @@
-module fastmulticache
+module github.com/molei20021/fastmulticache
 
 go 1.16
 
